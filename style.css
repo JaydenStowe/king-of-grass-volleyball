@@ -1,3 +1,6 @@
+html {
+  scroll-padding-top: 80px; /* match your navbar height */
+}
 body {
             font-family: Arial, sans-serif;
             margin: 0;
